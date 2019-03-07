@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="vdv_sdk",
-    version="0.0.1",
+    version="0.0.2",
     author="Owen",
     author_email="cfleu198@gmail.com",
     description="A small example package",
